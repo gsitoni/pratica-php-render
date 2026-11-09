@@ -6,7 +6,7 @@
 </head>
 <body>
 
-    <h1>Minha primeira aplicação PHP</h1>
+    <h1>Página da Giulia</h1>
 
     <h2>
         <?php
@@ -18,9 +18,8 @@
 
     <p>
         Hospedagem de aplicações é um serviço que
-        permite colocar um site ou sistema na internet,
-        para que outras pessoas possam acessá-lo
-        por meio de um navegador.
+        permite colocar um site ou sistema na internet
+        para que outras pessoas possam acessá-lo.
     </p>
 
 </body>
