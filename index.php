@@ -2,17 +2,26 @@
 <html lang="pt-BR">
 <head>
     <meta charset="UTF-8">
-    <title>Minha página PHP</title>
+    <title>Página da Giulia</title>
 </head>
 <body>
 
-    <h1>
+    <h1>Minha primeira aplicação PHP</h1>
+
+    <h2>
         <?php
             echo "Hello World! - " . date("d/m/Y H:i:s");
         ?>
-    </h1>
+    </h2>
 
     <p>Aplicação publicada no Render.</p>
+
+    <p>
+        Hospedagem de aplicações é um serviço que
+        permite colocar um site ou sistema na internet,
+        para que outras pessoas possam acessá-lo
+        por meio de um navegador.
+    </p>
 
 </body>
 </html>
