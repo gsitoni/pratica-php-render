@@ -10,7 +10,7 @@
 
     <h2>
         <?php
-            echo "Hello World! - " . date("d/m/Y H:i:s");
+            echo "Hello World! - " ;
         ?>
     </h2>
 
